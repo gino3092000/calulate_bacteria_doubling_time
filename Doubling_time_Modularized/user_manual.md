@@ -26,4 +26,4 @@ How to run:
 5.  data.read_data("input_template2.xlsx")
 6.  data.fit_sigmoid(plot=True)
 7.  data.show_result()
-8.  data.save_result("/output.xlsx")
+8.  data.save_result("output.xlsx")
